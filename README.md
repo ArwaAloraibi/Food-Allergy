@@ -49,8 +49,8 @@ restart
 
 -------------------------------------------Define constants and variables-----------------------------------------
 
-constant foods:[cupcake, pizza, milkshake, candy, popcorn, ice-cream];
-constant random;
+constant foods: [cupcake, pizza, milkshake, candy, popcorn, ice-cream];
+let random;
 
 -------------------Define the app’s state variables, but don’t assign values to them-------------------------------
 
