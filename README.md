@@ -2,7 +2,7 @@
 
 🌟Food Allergy 
 
-1-foods array: [cupcake, pizza, milkshake, candy, popcorn, ice-cream]
+1-foods foods= [cupcake, pizza, booba, candy, popcorn, ice-cream]
 2-person to feed
 3-timer 1: show 3 specified food icons in a message for 5s and then it well be reduced by 1s after each round: you have to memorize the specified food
 4-timer 2: timer for the specified food random collection that will be changed every 10s: so after each 10s you will be moved to another level with different collection of specified food
