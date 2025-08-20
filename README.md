@@ -1,6 +1,6 @@
-# Food-Allergy
+# Snack Rush
 
-🌟Food Allergy 
+🌟Snack rush 
 
 1-foods foods= [cupcake, pizza, booba, candy, popcorn, ice-cream]
 2-person to feed
